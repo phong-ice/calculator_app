@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="ac">ac</string>
+    <string name="lunisolar">+/-</string>
+    <string name="percent">% </string>
+    <string name="back">Back</string>
+</resources>
